@@ -9,7 +9,7 @@ Key Features:
 - Dynamic bird movements.
 - Gun firing mechanism.
 - AR integration for realistic immersion.
-- Real-time score tracking.
+- Real-time score tracking. 
 
 - Some Images from project.
   
